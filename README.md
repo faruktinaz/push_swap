@@ -4,8 +4,8 @@ the lowest possible number of actions. To succeed you’ll have to manipulate va
 types of algorithms and choose the most appropriate solution (out of many) for an
 optimized data sorting.
 
+![ezgif com-video-to-gif (1)](https://github.com/faruktinaz/push_swap/assets/114104599/8d2e9528-df8a-4298-8f2d-8e16e69332b3)
 
-![ezgif com-video-to-gif](https://github.com/faruktinaz/push_swap/assets/114104599/9ffeff3e-f0e2-401c-81fa-5669dcae7c2a)
 
 The possible actions are:
 
